@@ -7,12 +7,16 @@
   <ItemGroup>
     <Compile Remove="Areas\Admin\Data\**" />
     <Compile Remove="Areas\Admin\Models\**" />
+    <Compile Remove="wwwroot\img\user-avatar\**" />
     <Content Remove="Areas\Admin\Data\**" />
     <Content Remove="Areas\Admin\Models\**" />
+    <Content Remove="wwwroot\img\user-avatar\**" />
     <EmbeddedResource Remove="Areas\Admin\Data\**" />
     <EmbeddedResource Remove="Areas\Admin\Models\**" />
+    <EmbeddedResource Remove="wwwroot\img\user-avatar\**" />
     <None Remove="Areas\Admin\Data\**" />
     <None Remove="Areas\Admin\Models\**" />
+    <None Remove="wwwroot\img\user-avatar\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -28,7 +32,6 @@
     <Folder Include="wwwroot\admin\plugins\ckfinder\userfiles\" />
     <Folder Include="wwwroot\img\blog\avatar\" />
     <Folder Include="wwwroot\img\category\" />
-    <Folder Include="wwwroot\img\user-avatar\" />
     <Folder Include="wwwroot\img\product-image\" />
   </ItemGroup>
 

@@ -140,7 +140,6 @@ D:\Subjects\PMMNM\BanTraiCay\AppManager\obj\Debug\netcoreapp3.1\Razor\Areas\Admi
 D:\Subjects\PMMNM\BanTraiCay\AppManager\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
 D:\Subjects\PMMNM\BanTraiCay\AppManager\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ShopOrder\ListOrder.cshtml.g.cs
 D:\Subjects\PMMNM\BanTraiCay\AppManager\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ShopOrder\OrderDetail.cshtml.g.cs
-D:\Subjects\PMMNM\BanTraiCay\AppManager\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\ListUser.cshtml.g.cs
 D:\Subjects\PMMNM\BanTraiCay\AppManager\obj\Debug\netcoreapp3.1\Razor\Views\BlogDetail\Post.cshtml.g.cs
 D:\Subjects\PMMNM\BanTraiCay\AppManager\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
 D:\Subjects\PMMNM\BanTraiCay\AppManager\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\CheckOut.cshtml.g.cs

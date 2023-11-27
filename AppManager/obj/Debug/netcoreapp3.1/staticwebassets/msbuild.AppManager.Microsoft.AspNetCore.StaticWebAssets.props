@@ -46976,86 +46976,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\categories\cat-5.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\12afd06b-0e8b-4c9f-9b50-bf7e8f79f322product-12.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\12afd06b-0e8b-4c9f-9b50-bf7e8f79f322product-12.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\12afd06b-0e8b-4c9f-9b50-bf7e8f79f322product-12.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\17c16ba0-4c64-4444-b6bb-4bdf609b33c9Cheese.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\17c16ba0-4c64-4444-b6bb-4bdf609b33c9Cheese.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\17c16ba0-4c64-4444-b6bb-4bdf609b33c9Cheese.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\1d0a1cae-db32-4426-9f1b-c5ef1b1a1b7c102478889_p0.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\1d0a1cae-db32-4426-9f1b-c5ef1b1a1b7c102478889_p0.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\1d0a1cae-db32-4426-9f1b-c5ef1b1a1b7c102478889_p0.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\1f10dca9-ef01-4286-b1b1-75dc9dd204a8Samsung Galaxy Z Flip4.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\1f10dca9-ef01-4286-b1b1-75dc9dd204a8Samsung Galaxy Z Flip4.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\1f10dca9-ef01-4286-b1b1-75dc9dd204a8Samsung Galaxy Z Flip4.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\360b1e49-e44c-49d1-9a02-2e8122d8c0f0102478889_p0.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\360b1e49-e44c-49d1-9a02-2e8122d8c0f0102478889_p0.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\360b1e49-e44c-49d1-9a02-2e8122d8c0f0102478889_p0.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\3fcdcd40-f766-43bd-8097-7a7ae74a7914Avocados-3d84a3a.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
@@ -47071,54 +46991,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\3fcdcd40-f766-43bd-8097-7a7ae74a7914Avocados-3d84a3a.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\468c746e-cac2-427b-b602-d1104f814949image9-1642729261-979-width650height450.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\468c746e-cac2-427b-b602-d1104f814949image9-1642729261-979-width650height450.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\468c746e-cac2-427b-b602-d1104f814949image9-1642729261-979-width650height450.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\49319ba8-8c2b-4b2e-ac2d-a6ffc3642be2blog-5.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\49319ba8-8c2b-4b2e-ac2d-a6ffc3642be2blog-5.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\49319ba8-8c2b-4b2e-ac2d-a6ffc3642be2blog-5.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\4d7ac70a-e505-40f2-a5b4-0e9ecf6e6bf2wine_PNG9463.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\4d7ac70a-e505-40f2-a5b4-0e9ecf6e6bf2wine_PNG9463.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\4d7ac70a-e505-40f2-a5b4-0e9ecf6e6bf2wine_PNG9463.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\653cf18b-ae46-408f-8bf5-2c07b621a87cKiwi.jpg))">
       <SourceType>Package</SourceType>
@@ -47152,22 +47024,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\69efd0f7-392c-4c03-afae-23ad66c0222epomme-large.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\71efc7b1-fad4-4db7-a4a8-2a8d749d6edetea_PNG98892.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\71efc7b1-fad4-4db7-a4a8-2a8d749d6edetea_PNG98892.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\71efc7b1-fad4-4db7-a4a8-2a8d749d6edetea_PNG98892.png))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\7a46f168-8300-4f7d-aa44-2fcb66c17a6dgrape_229112122.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
@@ -47183,22 +47039,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\7a46f168-8300-4f7d-aa44-2fcb66c17a6dgrape_229112122.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\817f02a0-9695-4aae-adc7-eac371544444jam_PNG20.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\817f02a0-9695-4aae-adc7-eac371544444jam_PNG20.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\817f02a0-9695-4aae-adc7-eac371544444jam_PNG20.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\83539226-8e35-4797-a222-b45f3275658cqua-hong.jpg))">
       <SourceType>Package</SourceType>
@@ -47216,54 +47056,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\83539226-8e35-4797-a222-b45f3275658cqua-hong.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\83e32f5b-0f69-4598-9169-d6160470050ccat-5.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\83e32f5b-0f69-4598-9169-d6160470050ccat-5.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\83e32f5b-0f69-4598-9169-d6160470050ccat-5.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\84d60993-e9b6-4038-a057-8770d1565250Screenshot (18).png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\84d60993-e9b6-4038-a057-8770d1565250Screenshot (18).png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\84d60993-e9b6-4038-a057-8770d1565250Screenshot (18).png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\89bf391c-672b-4e11-bf3b-523c1673ccf9Samsung Galaxy Z Flip4.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\89bf391c-672b-4e11-bf3b-523c1673ccf9Samsung Galaxy Z Flip4.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\89bf391c-672b-4e11-bf3b-523c1673ccf9Samsung Galaxy Z Flip4.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\95e0e89c-502a-4658-904e-b2ceaa8ce39bblog-2.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
@@ -47279,22 +47071,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\95e0e89c-502a-4658-904e-b2ceaa8ce39bblog-2.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\9ceac93d-cb93-435f-ac0c-8125c2951d9fblog-5.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\9ceac93d-cb93-435f-ac0c-8125c2951d9fblog-5.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\9ceac93d-cb93-435f-ac0c-8125c2951d9fblog-5.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\a4f9bc7c-adb6-4e55-b19b-5af0eba758b7berry_57002609.jpg))">
       <SourceType>Package</SourceType>
@@ -47312,22 +47088,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\a4f9bc7c-adb6-4e55-b19b-5af0eba758b7berry_57002609.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\a9127339-d453-487a-aac5-91dee53306b2Samsung Galaxy Z Flip4.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\a9127339-d453-487a-aac5-91dee53306b2Samsung Galaxy Z Flip4.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\a9127339-d453-487a-aac5-91dee53306b2Samsung Galaxy Z Flip4.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\b4d4bea0-43d4-460e-b992-c1e5c37ba0dacerise-large.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
@@ -47343,54 +47103,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\b4d4bea0-43d4-460e-b992-c1e5c37ba0dacerise-large.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\b6f04873-7f33-452f-8903-ec192a2d930ccake_PNG13087.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\b6f04873-7f33-452f-8903-ec192a2d930ccake_PNG13087.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\b6f04873-7f33-452f-8903-ec192a2d930ccake_PNG13087.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\b721ef1e-cc67-4e30-aaa9-9c351c1ece78jam_PNG20.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\b721ef1e-cc67-4e30-aaa9-9c351c1ece78jam_PNG20.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\b721ef1e-cc67-4e30-aaa9-9c351c1ece78jam_PNG20.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\bfd250be-e074-49c5-b06b-7e5cbcb12a495b973fbc-de09-43df-965a-d33bc7f79ce2.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\bfd250be-e074-49c5-b06b-7e5cbcb12a495b973fbc-de09-43df-965a-d33bc7f79ce2.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\bfd250be-e074-49c5-b06b-7e5cbcb12a495b973fbc-de09-43df-965a-d33bc7f79ce2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\c1e37d3a-660c-40f9-9745-7b79c3fa4c51bd105774avocados7_1-438426ce052c4b28ac235c77bba275f2-horiz-822d4d20af814d8b9a27f8be314549e3.jpg))">
       <SourceType>Package</SourceType>
@@ -47408,38 +47120,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\c1e37d3a-660c-40f9-9745-7b79c3fa4c51bd105774avocados7_1-438426ce052c4b28ac235c77bba275f2-horiz-822d4d20af814d8b9a27f8be314549e3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\c7c1b851-129d-44d6-8cc2-e347ff8f6c0dSamsung Galaxy Z Flip4.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\c7c1b851-129d-44d6-8cc2-e347ff8f6c0dSamsung Galaxy Z Flip4.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\c7c1b851-129d-44d6-8cc2-e347ff8f6c0dSamsung Galaxy Z Flip4.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\d35a8e0a-0b70-48f1-ac52-a9447d5c96e1anh7.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\d35a8e0a-0b70-48f1-ac52-a9447d5c96e1anh7.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\d35a8e0a-0b70-48f1-ac52-a9447d5c96e1anh7.png))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\d3864ba6-de21-4b67-836e-5534c13cfdb2cong-dung-cua-dua-luoi-cac-loai-tren-thi-truong-v-11.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
@@ -47455,22 +47135,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\d3864ba6-de21-4b67-836e-5534c13cfdb2cong-dung-cua-dua-luoi-cac-loai-tren-thi-truong-v-11.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\d5b774fc-ee4f-4714-b55f-71554d964eafSamsung Galaxy Z Flip4.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\d5b774fc-ee4f-4714-b55f-71554d964eafSamsung Galaxy Z Flip4.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\d5b774fc-ee4f-4714-b55f-71554d964eafSamsung Galaxy Z Flip4.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\d877974e-dedb-4f6b-92ef-4c90fe2ad287product-11.jpg))">
       <SourceType>Package</SourceType>
@@ -47504,22 +47168,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\dbd5b10d-05be-4e58-8833-5e6f40a4c081pear-south-africa_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\e8fdf5ed-9e70-4a44-99d6-bcfe4e6ee4e85150000163-1.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\e8fdf5ed-9e70-4a44-99d6-bcfe4e6ee4e85150000163-1.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\e8fdf5ed-9e70-4a44-99d6-bcfe4e6ee4e85150000163-1.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\f16b160f-653f-4d39-889f-4fa2a7b5bca1163466.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
@@ -47551,54 +47199,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\f79baa3e-6877-4c56-9149-727bca78f1cfcat-1.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\f8cd934f-2abc-40f2-87aa-989baf040023Samsung Galaxy Z Flip4.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\f8cd934f-2abc-40f2-87aa-989baf040023Samsung Galaxy Z Flip4.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\f8cd934f-2abc-40f2-87aa-989baf040023Samsung Galaxy Z Flip4.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\fc67e6e5-69d8-4cfa-9522-545a732bf4c7620f9cc15d969.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\fc67e6e5-69d8-4cfa-9522-545a732bf4c7620f9cc15d969.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\fc67e6e5-69d8-4cfa-9522-545a732bf4c7620f9cc15d969.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\ff2f3a13-d0c8-497d-a7f7-07e9c69cb310Samsung Galaxy Z Flip4.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\category\ff2f3a13-d0c8-497d-a7f7-07e9c69cb310Samsung Galaxy Z Flip4.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\category\ff2f3a13-d0c8-497d-a7f7-07e9c69cb310Samsung Galaxy Z Flip4.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\default.jpg))">
       <SourceType>Package</SourceType>
@@ -47856,12 +47456,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\payment-item.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\0650f60e-08b4-475a-a78a-f267e6360fa5guigubahuang_2022-11-20_02-48-56.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\0a5483a9-2507-4585-b68a-36f6af7e0c76z3765905834357_ece8cb9494d5361d42665e22facfd3d6_9eaaa3f603bf4d6382081b1fea8a4bb0_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\0650f60e-08b4-475a-a78a-f267e6360fa5guigubahuang_2022-11-20_02-48-56.png</RelativePath>
+      <RelativePath>img\product-image\0a5483a9-2507-4585-b68a-36f6af7e0c76z3765905834357_ece8cb9494d5361d42665e22facfd3d6_9eaaa3f603bf4d6382081b1fea8a4bb0_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -47870,14 +47470,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\0650f60e-08b4-475a-a78a-f267e6360fa5guigubahuang_2022-11-20_02-48-56.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\0a5483a9-2507-4585-b68a-36f6af7e0c76z3765905834357_ece8cb9494d5361d42665e22facfd3d6_9eaaa3f603bf4d6382081b1fea8a4bb0_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\09398f32-1718-4cec-b4c3-2b64bcd9d2b6galaxyzflip1280x720.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\0f069795-c89f-4b0e-88c7-8a747a868836z3768950518950_783edb93656063d8e77ab082b52f945a_71c5013d632a497aa1af8e3186e721e7_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\09398f32-1718-4cec-b4c3-2b64bcd9d2b6galaxyzflip1280x720.jpg</RelativePath>
+      <RelativePath>img\product-image\0f069795-c89f-4b0e-88c7-8a747a868836z3768950518950_783edb93656063d8e77ab082b52f945a_71c5013d632a497aa1af8e3186e721e7_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -47886,55 +47486,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\09398f32-1718-4cec-b4c3-2b64bcd9d2b6galaxyzflip1280x720.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\117b0613-f3c5-470a-b96c-83758f0ddf36product-7.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\117b0613-f3c5-470a-b96c-83758f0ddf36product-7.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\117b0613-f3c5-470a-b96c-83758f0ddf36product-7.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\166e6138-c2b1-464e-a372-40437ae8f19eproduct-7.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\166e6138-c2b1-464e-a372-40437ae8f19eproduct-7.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\166e6138-c2b1-464e-a372-40437ae8f19eproduct-7.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\1e89a02b-b890-4713-9423-86b55ef98492product-3.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\1e89a02b-b890-4713-9423-86b55ef98492product-3.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\1e89a02b-b890-4713-9423-86b55ef98492product-3.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\0f069795-c89f-4b0e-88c7-8a747a868836z3768950518950_783edb93656063d8e77ab082b52f945a_71c5013d632a497aa1af8e3186e721e7_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\233dfb3d-6d44-4b71-b3f4-f4672a6bd646img_2754_7fabca3d88044ab9b85655bd86e105df_master.jpg))">
       <SourceType>Package</SourceType>
@@ -47952,12 +47504,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\233dfb3d-6d44-4b71-b3f4-f4672a6bd646img_2754_7fabca3d88044ab9b85655bd86e105df_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\2506e0f9-8b02-4aed-b878-f00910641c9aproduct-7.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\30011852-4421-4bd9-9936-778cf9491af47_bc0a8e97e3a34055b6f0ffd6dc67ed49_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\2506e0f9-8b02-4aed-b878-f00910641c9aproduct-7.jpg</RelativePath>
+      <RelativePath>img\product-image\30011852-4421-4bd9-9936-778cf9491af47_bc0a8e97e3a34055b6f0ffd6dc67ed49_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -47966,14 +47518,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\2506e0f9-8b02-4aed-b878-f00910641c9aproduct-7.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\30011852-4421-4bd9-9936-778cf9491af47_bc0a8e97e3a34055b6f0ffd6dc67ed49_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\284d7537-f106-40d9-b177-09226ecd08b6juice_PNG7156.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\30b11644-4cc4-44fc-acbc-2b66ca8a7e97z4247282758140_f7df25c474a18def8e82b35f87dcb618_c9e9ff960708424ca0cf924c0079b0e7_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\284d7537-f106-40d9-b177-09226ecd08b6juice_PNG7156.png</RelativePath>
+      <RelativePath>img\product-image\30b11644-4cc4-44fc-acbc-2b66ca8a7e97z4247282758140_f7df25c474a18def8e82b35f87dcb618_c9e9ff960708424ca0cf924c0079b0e7_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -47982,14 +47534,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\284d7537-f106-40d9-b177-09226ecd08b6juice_PNG7156.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\30b11644-4cc4-44fc-acbc-2b66ca8a7e97z4247282758140_f7df25c474a18def8e82b35f87dcb618_c9e9ff960708424ca0cf924c0079b0e7_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\28515cc0-b660-4c01-b15e-5a856ec967f8product-8.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\324e16bd-a775-4a79-8f57-8a7de922f4a11_c0fb13b7da0946cc9a01eea883275bbb_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\28515cc0-b660-4c01-b15e-5a856ec967f8product-8.jpg</RelativePath>
+      <RelativePath>img\product-image\324e16bd-a775-4a79-8f57-8a7de922f4a11_c0fb13b7da0946cc9a01eea883275bbb_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -47998,14 +47550,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\28515cc0-b660-4c01-b15e-5a856ec967f8product-8.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\324e16bd-a775-4a79-8f57-8a7de922f4a11_c0fb13b7da0946cc9a01eea883275bbb_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\295dc82b-9e2b-4812-ba79-49d215cf807bproduct-2.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\33abfae9-71e0-4f92-8916-48f00477e0992_ea2ef5e10af64a9e81771a43d2443f94_master.png))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\295dc82b-9e2b-4812-ba79-49d215cf807bproduct-2.jpg</RelativePath>
+      <RelativePath>img\product-image\33abfae9-71e0-4f92-8916-48f00477e0992_ea2ef5e10af64a9e81771a43d2443f94_master.png</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -48014,14 +47566,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\295dc82b-9e2b-4812-ba79-49d215cf807bproduct-2.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\33abfae9-71e0-4f92-8916-48f00477e0992_ea2ef5e10af64a9e81771a43d2443f94_master.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\3425d809-336a-4298-bb44-517cddff05acthumb-1.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\476d3b35-0133-4925-a00d-dc07a149d7a2z4904914869371_1df9417f67ca4c784d7c480e3a31b549_ab89b36bf8194761b204be2fb2269b70_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\3425d809-336a-4298-bb44-517cddff05acthumb-1.jpg</RelativePath>
+      <RelativePath>img\product-image\476d3b35-0133-4925-a00d-dc07a149d7a2z4904914869371_1df9417f67ca4c784d7c480e3a31b549_ab89b36bf8194761b204be2fb2269b70_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -48030,14 +47582,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\3425d809-336a-4298-bb44-517cddff05acthumb-1.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\476d3b35-0133-4925-a00d-dc07a149d7a2z4904914869371_1df9417f67ca4c784d7c480e3a31b549_ab89b36bf8194761b204be2fb2269b70_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\37285b51-7c90-4e33-861c-54120651ef74product-5.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\4c6e3783-6f83-462f-b241-41d74239b2d4z3765134832455_0cd9f46e28d2a87139347b81de24e7de_df4959c2c2ac4cf197f4b8e752b98b1e_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\37285b51-7c90-4e33-861c-54120651ef74product-5.jpg</RelativePath>
+      <RelativePath>img\product-image\4c6e3783-6f83-462f-b241-41d74239b2d4z3765134832455_0cd9f46e28d2a87139347b81de24e7de_df4959c2c2ac4cf197f4b8e752b98b1e_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -48046,14 +47598,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\37285b51-7c90-4e33-861c-54120651ef74product-5.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\4c6e3783-6f83-462f-b241-41d74239b2d4z3765134832455_0cd9f46e28d2a87139347b81de24e7de_df4959c2c2ac4cf197f4b8e752b98b1e_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\45ef3104-3428-4e86-b087-3d91f0547b52thumb-2.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\593a8441-7cba-4c81-be5f-5d76f1ea18eb2_c5e0e8b0cb694c7ab35d22df78e0d0cd_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\45ef3104-3428-4e86-b087-3d91f0547b52thumb-2.jpg</RelativePath>
+      <RelativePath>img\product-image\593a8441-7cba-4c81-be5f-5d76f1ea18eb2_c5e0e8b0cb694c7ab35d22df78e0d0cd_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -48062,14 +47614,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\45ef3104-3428-4e86-b087-3d91f0547b52thumb-2.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\593a8441-7cba-4c81-be5f-5d76f1ea18eb2_c5e0e8b0cb694c7ab35d22df78e0d0cd_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\56627065-97cd-4d8f-9d10-9c3cef49b9d4mango_PNG9176.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\62fb8ae0-fc46-453f-93ae-8bd2cf774d553_916cf7d5911142d8bc8ba60d41cf3f5d_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\56627065-97cd-4d8f-9d10-9c3cef49b9d4mango_PNG9176.png</RelativePath>
+      <RelativePath>img\product-image\62fb8ae0-fc46-453f-93ae-8bd2cf774d553_916cf7d5911142d8bc8ba60d41cf3f5d_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -48078,14 +47630,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\56627065-97cd-4d8f-9d10-9c3cef49b9d4mango_PNG9176.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\62fb8ae0-fc46-453f-93ae-8bd2cf774d553_916cf7d5911142d8bc8ba60d41cf3f5d_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\5a5e92a3-6f5a-4e00-94b3-bfb6306f8224—Pngtree—mango juice splash_7216029.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\7c124458-de9e-48ff-b338-7181e77854f6z3765775487583_3c88177c7fadd31ab12cc58d532e68f6_f552b6044c124ec397a1da29a2c6ce48_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\5a5e92a3-6f5a-4e00-94b3-bfb6306f8224—Pngtree—mango juice splash_7216029.png</RelativePath>
+      <RelativePath>img\product-image\7c124458-de9e-48ff-b338-7181e77854f6z3765775487583_3c88177c7fadd31ab12cc58d532e68f6_f552b6044c124ec397a1da29a2c6ce48_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -48094,14 +47646,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\5a5e92a3-6f5a-4e00-94b3-bfb6306f8224—Pngtree—mango juice splash_7216029.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\7c124458-de9e-48ff-b338-7181e77854f6z3765775487583_3c88177c7fadd31ab12cc58d532e68f6_f552b6044c124ec397a1da29a2c6ce48_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\67e9be74-fa92-48fb-972e-ac95e7379fe8galaxy-z-fold-3-co-camera-an-duoi-man-hinh-1-1601912419110-16019124191142009724072.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\bab1c777-0f45-4f0f-897c-de9114ac09672_d9eaa98550304d62a9b9f615e1c72fc4_master.png))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\67e9be74-fa92-48fb-972e-ac95e7379fe8galaxy-z-fold-3-co-camera-an-duoi-man-hinh-1-1601912419110-16019124191142009724072.jpg</RelativePath>
+      <RelativePath>img\product-image\bab1c777-0f45-4f0f-897c-de9114ac09672_d9eaa98550304d62a9b9f615e1c72fc4_master.png</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -48110,14 +47662,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\67e9be74-fa92-48fb-972e-ac95e7379fe8galaxy-z-fold-3-co-camera-an-duoi-man-hinh-1-1601912419110-16019124191142009724072.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\bab1c777-0f45-4f0f-897c-de9114ac09672_d9eaa98550304d62a9b9f615e1c72fc4_master.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\6c511b16-90b8-4cdf-8780-b7ed0df6a564product-1.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\bb52aff3-2668-4108-ad53-12555b438e8cz3765912447966_18b3307bcb23ceb2d0f53007e37b79b6_3e2b507f205a4b8b8a021ff8ff06c1a3_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\6c511b16-90b8-4cdf-8780-b7ed0df6a564product-1.jpg</RelativePath>
+      <RelativePath>img\product-image\bb52aff3-2668-4108-ad53-12555b438e8cz3765912447966_18b3307bcb23ceb2d0f53007e37b79b6_3e2b507f205a4b8b8a021ff8ff06c1a3_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -48126,14 +47678,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\6c511b16-90b8-4cdf-8780-b7ed0df6a564product-1.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\bb52aff3-2668-4108-ad53-12555b438e8cz3765912447966_18b3307bcb23ceb2d0f53007e37b79b6_3e2b507f205a4b8b8a021ff8ff06c1a3_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\6caf5031-4a68-4dbf-9a7a-74e91435ad06cat-1.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\ccd738b8-2881-403a-92cc-2d789e9049f6z4826261350287_c9f4e72bdf5652d13b600930f2bbdade_27a5d054b40148fab2e95c86f6b38eee_master.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\6caf5031-4a68-4dbf-9a7a-74e91435ad06cat-1.jpg</RelativePath>
+      <RelativePath>img\product-image\ccd738b8-2881-403a-92cc-2d789e9049f6z4826261350287_c9f4e72bdf5652d13b600930f2bbdade_27a5d054b40148fab2e95c86f6b38eee_master.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -48142,14 +47694,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\6caf5031-4a68-4dbf-9a7a-74e91435ad06cat-1.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\ccd738b8-2881-403a-92cc-2d789e9049f6z4826261350287_c9f4e72bdf5652d13b600930f2bbdade_27a5d054b40148fab2e95c86f6b38eee_master.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\74c8762f-af95-43dd-a0cb-3fa4953afd92—Pngtree—mango mango juice_7199773.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\d51ed705-0771-471b-85e3-56ed6f8e560dbo_hass_daklak.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>AppManager</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\74c8762f-af95-43dd-a0cb-3fa4953afd92—Pngtree—mango mango juice_7199773.png</RelativePath>
+      <RelativePath>img\product-image\d51ed705-0771-471b-85e3-56ed6f8e560dbo_hass_daklak.jpg</RelativePath>
       <AssetKind></AssetKind>
       <AssetMode></AssetMode>
       <AssetRole></AssetRole>
@@ -48158,247 +47710,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\74c8762f-af95-43dd-a0cb-3fa4953afd92—Pngtree—mango mango juice_7199773.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\76d7c753-7fb5-4929-b102-437429dd7691product-7.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\76d7c753-7fb5-4929-b102-437429dd7691product-7.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\76d7c753-7fb5-4929-b102-437429dd7691product-7.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\8236e0da-4e10-4ca0-be81-72069713b872product-12.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\8236e0da-4e10-4ca0-be81-72069713b872product-12.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\8236e0da-4e10-4ca0-be81-72069713b872product-12.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\959259fa-94e3-4f72-9ab1-f071ce7f006d620f9cc15d969.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\959259fa-94e3-4f72-9ab1-f071ce7f006d620f9cc15d969.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\959259fa-94e3-4f72-9ab1-f071ce7f006d620f9cc15d969.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\9c590846-6a33-4a46-8718-7b04a3df6949product-7.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\9c590846-6a33-4a46-8718-7b04a3df6949product-7.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\9c590846-6a33-4a46-8718-7b04a3df6949product-7.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\a146e741-4670-4e58-ae5e-515486adf444guigubahuang_2022-11-20_02-48-56.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\a146e741-4670-4e58-ae5e-515486adf444guigubahuang_2022-11-20_02-48-56.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\a146e741-4670-4e58-ae5e-515486adf444guigubahuang_2022-11-20_02-48-56.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\b4c525b8-8a83-4a07-ac74-4c7810550c5bHNMO_Flip.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\b4c525b8-8a83-4a07-ac74-4c7810550c5bHNMO_Flip.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\b4c525b8-8a83-4a07-ac74-4c7810550c5bHNMO_Flip.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\bb4515d4-6017-493b-8d2f-28fdca76d58cproduct-3.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\bb4515d4-6017-493b-8d2f-28fdca76d58cproduct-3.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\bb4515d4-6017-493b-8d2f-28fdca76d58cproduct-3.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\be9bbfe5-9f4f-4c53-88ec-718752ab2c2dsamsung-galaxy-z-flip-2.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\be9bbfe5-9f4f-4c53-88ec-718752ab2c2dsamsung-galaxy-z-flip-2.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\be9bbfe5-9f4f-4c53-88ec-718752ab2c2dsamsung-galaxy-z-flip-2.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\c878f4ac-1985-4f18-abf4-a46f9782385dproduct-8.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\c878f4ac-1985-4f18-abf4-a46f9782385dproduct-8.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\c878f4ac-1985-4f18-abf4-a46f9782385dproduct-8.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\c8f42012-85ba-46ef-b1bf-df45cbd1be3fproduct-8.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\c8f42012-85ba-46ef-b1bf-df45cbd1be3fproduct-8.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\c8f42012-85ba-46ef-b1bf-df45cbd1be3fproduct-8.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\dccdce2b-9afc-4292-9e43-77ecc7adfc77guigubahuang_2022-11-20_02-48-56.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\dccdce2b-9afc-4292-9e43-77ecc7adfc77guigubahuang_2022-11-20_02-48-56.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\dccdce2b-9afc-4292-9e43-77ecc7adfc77guigubahuang_2022-11-20_02-48-56.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\ea81e77a-28f2-4e0d-891b-ac390e9ea889product-4.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\ea81e77a-28f2-4e0d-891b-ac390e9ea889product-4.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\ea81e77a-28f2-4e0d-891b-ac390e9ea889product-4.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\ecdc899d-f1bf-4652-bd10-af60dc2de89cjuice_PNG7156.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\ecdc899d-f1bf-4652-bd10-af60dc2de89cjuice_PNG7156.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\ecdc899d-f1bf-4652-bd10-af60dc2de89cjuice_PNG7156.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\f33d7762-a3c7-4789-a1cd-4757d8d17d8f—Pngtree—orange juice drink fresh fruits_4961924.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\f33d7762-a3c7-4789-a1cd-4757d8d17d8f—Pngtree—orange juice drink fresh fruits_4961924.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\f33d7762-a3c7-4789-a1cd-4757d8d17d8f—Pngtree—orange juice drink fresh fruits_4961924.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\fef95e4e-17a2-4b88-9a95-0641715c56b6cheese.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\product-image\fef95e4e-17a2-4b88-9a95-0641715c56b6cheese.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\fef95e4e-17a2-4b88-9a95-0641715c56b6cheese.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product-image\d51ed705-0771-471b-85e3-56ed6f8e560dbo_hass_daklak.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product\details\product-details-1.jpg))">
       <SourceType>Package</SourceType>
@@ -48831,502 +48143,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\product\product-9.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\087f9d60-bf28-4add-920e-22cc624bdcf3z3722136445054_af30def70fe18fbb0a18a961c913fe3b.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\087f9d60-bf28-4add-920e-22cc624bdcf3z3722136445054_af30def70fe18fbb0a18a961c913fe3b.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\087f9d60-bf28-4add-920e-22cc624bdcf3z3722136445054_af30def70fe18fbb0a18a961c913fe3b.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\11661b1d-0243-4a20-8510-b3721ecf1de4a qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\11661b1d-0243-4a20-8510-b3721ecf1de4a qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\11661b1d-0243-4a20-8510-b3721ecf1de4a qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\1fd96668-96ea-486b-99db-bfb5deee04f6_male, black short hair, magician, white rabbit, blue eyes s-100.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\1fd96668-96ea-486b-99db-bfb5deee04f6_male, black short hair, magician, white rabbit, blue eyes s-100.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\1fd96668-96ea-486b-99db-bfb5deee04f6_male, black short hair, magician, white rabbit, blue eyes s-100.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\20c56fd3-a874-4d3c-8019-c255d01ea33bmango_PNG9176.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\20c56fd3-a874-4d3c-8019-c255d01ea33bmango_PNG9176.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\20c56fd3-a874-4d3c-8019-c255d01ea33bmango_PNG9176.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\342569eb-b4d6-476a-b313-518f1f90b3cc200820_by_itsukamin_de3o4kj-fullview.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\342569eb-b4d6-476a-b313-518f1f90b3cc200820_by_itsukamin_de3o4kj-fullview.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\342569eb-b4d6-476a-b313-518f1f90b3cc200820_by_itsukamin_de3o4kj-fullview.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\37fe1b86-da97-48ad-aea8-70c71b5f2badCheese.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\37fe1b86-da97-48ad-aea8-70c71b5f2badCheese.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\37fe1b86-da97-48ad-aea8-70c71b5f2badCheese.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\3f4967f0-d565-4e93-9304-4bed702cffbcd qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\3f4967f0-d565-4e93-9304-4bed702cffbcd qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\3f4967f0-d565-4e93-9304-4bed702cffbcd qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\423115c3-58bf-43ce-8ac8-5cf37a0d4492b qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\423115c3-58bf-43ce-8ac8-5cf37a0d4492b qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\423115c3-58bf-43ce-8ac8-5cf37a0d4492b qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\50c2c56f-1ad9-4b41-9a3a-438bbb26ae69b qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\50c2c56f-1ad9-4b41-9a3a-438bbb26ae69b qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\50c2c56f-1ad9-4b41-9a3a-438bbb26ae69b qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\61dcbb6d-5a7e-49a6-8bbc-e8dd4f7979acb qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\61dcbb6d-5a7e-49a6-8bbc-e8dd4f7979acb qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\61dcbb6d-5a7e-49a6-8bbc-e8dd4f7979acb qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\6c42f532-6458-4ee0-a303-fbeed21f2343b qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\6c42f532-6458-4ee0-a303-fbeed21f2343b qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\6c42f532-6458-4ee0-a303-fbeed21f2343b qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\6fa1d8b6-c971-4b21-a4dc-55d7822f865db qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\6fa1d8b6-c971-4b21-a4dc-55d7822f865db qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\6fa1d8b6-c971-4b21-a4dc-55d7822f865db qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\8293b290-8536-48d3-be9a-b108fd983954tea_PNG98892.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\8293b290-8536-48d3-be9a-b108fd983954tea_PNG98892.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\8293b290-8536-48d3-be9a-b108fd983954tea_PNG98892.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\8b6ac302-7240-4f0f-b5f3-16dfe86b05f7b qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\8b6ac302-7240-4f0f-b5f3-16dfe86b05f7b qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\8b6ac302-7240-4f0f-b5f3-16dfe86b05f7b qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\8eb810a8-afa4-462f-9208-903cd17a586db qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\8eb810a8-afa4-462f-9208-903cd17a586db qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\8eb810a8-afa4-462f-9208-903cd17a586db qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\9f50e06f-aac5-4f24-9d0e-a614d5e9dcd7a qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\9f50e06f-aac5-4f24-9d0e-a614d5e9dcd7a qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\9f50e06f-aac5-4f24-9d0e-a614d5e9dcd7a qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\b504b258-d99a-40bb-b7e8-f4b7ba9d4667b qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\b504b258-d99a-40bb-b7e8-f4b7ba9d4667b qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\b504b258-d99a-40bb-b7e8-f4b7ba9d4667b qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\bf43b229-1465-402e-922a-d631a35a075ab qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\bf43b229-1465-402e-922a-d631a35a075ab qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\bf43b229-1465-402e-922a-d631a35a075ab qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\bf92c456-a439-4c9e-be56-32e13664803620d73c7e-ce19-47db-89c1-fa48dcdc26c9-result.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\bf92c456-a439-4c9e-be56-32e13664803620d73c7e-ce19-47db-89c1-fa48dcdc26c9-result.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\bf92c456-a439-4c9e-be56-32e13664803620d73c7e-ce19-47db-89c1-fa48dcdc26c9-result.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\c1024447-59e5-4592-a16e-4a0b8682ebc4b qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\c1024447-59e5-4592-a16e-4a0b8682ebc4b qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\c1024447-59e5-4592-a16e-4a0b8682ebc4b qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\c40458ca-d2a7-4dc7-ae8b-b196d2148e6cb qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\c40458ca-d2a7-4dc7-ae8b-b196d2148e6cb qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\c40458ca-d2a7-4dc7-ae8b-b196d2148e6cb qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\c6420fab-b33a-4417-866f-c24e0c0b4841d qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\c6420fab-b33a-4417-866f-c24e0c0b4841d qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\c6420fab-b33a-4417-866f-c24e0c0b4841d qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\c766c9c3-ed68-47eb-91cf-e5d3b4eccc922023-04-21-00-13-41-606.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\c766c9c3-ed68-47eb-91cf-e5d3b4eccc922023-04-21-00-13-41-606.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\c766c9c3-ed68-47eb-91cf-e5d3b4eccc922023-04-21-00-13-41-606.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\cc4705a4-182b-40dc-ad13-02993598ba2920d73c7e-ce19-47db-89c1-fa48dcdc26c9-result (2).png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\cc4705a4-182b-40dc-ad13-02993598ba2920d73c7e-ce19-47db-89c1-fa48dcdc26c9-result (2).png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\cc4705a4-182b-40dc-ad13-02993598ba2920d73c7e-ce19-47db-89c1-fa48dcdc26c9-result (2).png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\d0f438a3-d635-44d5-82be-05c73668a2b4d qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\d0f438a3-d635-44d5-82be-05c73668a2b4d qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\d0f438a3-d635-44d5-82be-05c73668a2b4d qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\d6f313d3-7a22-4983-999d-dff7a20fcb7fz3990640086082_a93a9f1a2d9b6160cdb48a4d32e05d0b.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\d6f313d3-7a22-4983-999d-dff7a20fcb7fz3990640086082_a93a9f1a2d9b6160cdb48a4d32e05d0b.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\d6f313d3-7a22-4983-999d-dff7a20fcb7fz3990640086082_a93a9f1a2d9b6160cdb48a4d32e05d0b.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\e240d1a2-3230-456c-aa25-548d8b3a62b2c hien dai.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\e240d1a2-3230-456c-aa25-548d8b3a62b2c hien dai.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\e240d1a2-3230-456c-aa25-548d8b3a62b2c hien dai.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\e813c5fe-19c9-49ed-bb7c-05e6ef4446deb qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\e813c5fe-19c9-49ed-bb7c-05e6ef4446deb qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\e813c5fe-19c9-49ed-bb7c-05e6ef4446deb qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\ecc09522-2e28-49ff-b7e0-ccfd2a0ec24bb qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\ecc09522-2e28-49ff-b7e0-ccfd2a0ec24bb qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\ecc09522-2e28-49ff-b7e0-ccfd2a0ec24bb qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\f3b3e137-b22b-4068-b2e5-67ac11b6d1a2a qk.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\f3b3e137-b22b-4068-b2e5-67ac11b6d1a2a qk.jpg</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\f3b3e137-b22b-4068-b2e5-67ac11b6d1a2a qk.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\fb633b16-1ca8-47e2-b0cf-22573a19a5edtea_PNG98892.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AppManager</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AppManager</BasePath>
-      <RelativePath>img\user-avatar\fb633b16-1ca8-47e2-b0cf-22573a19a5edtea_PNG98892.png</RelativePath>
-      <AssetKind></AssetKind>
-      <AssetMode></AssetMode>
-      <AssetRole></AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\user-avatar\fb633b16-1ca8-47e2-b0cf-22573a19a5edtea_PNG98892.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\js\bootstrap.min.js))">
       <SourceType>Package</SourceType>

@@ -573,7 +573,7 @@ ol {
 }
 
 .hero.hero-normal .hero__categories ul {
-	display: block;
+	display: none;
 	position: absolute;
 	left: 0;
 	top: 46px;
